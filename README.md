@@ -8,8 +8,9 @@ Your printers' cameras only work on your local network. BambuBridge runs on a co
 
 | Platform | File |
 |---|---|
-| macOS (Apple Silicon) | `BambuBridge-<version>-mac-arm64.dmg` |
-| macOS (Intel) | `BambuBridge-<version>-mac-x64.dmg` |
+| macOS 13+ (Apple silicon) | `BambuBridge-<version>-mac-arm64.dmg` |
+| macOS 13+ (Intel) | `BambuBridge-<version>-mac-x64.dmg` |
+| macOS 12 Monterey | `BambuBridge-<version>-mac-legacy-x64.dmg` (Intel) / `mac-legacy-arm64.dmg` (Apple silicon) |
 | Windows 10/11 | `BambuBridge-<version>-windows-setup.exe` |
 | Linux x64 | `.AppImage` or `.deb` (`linux-x86_64` / `linux-amd64`) |
 | Linux ARM64 (Raspberry Pi 4/5, etc.) | `.AppImage` or `.deb` (`linux-arm64`) |
